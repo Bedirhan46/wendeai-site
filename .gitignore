@@ -1,0 +1,6 @@
+# Gizli anahtar/sertifika dosyalari ASLA yuklenmez
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx
